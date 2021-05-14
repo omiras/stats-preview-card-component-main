@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]([./screenshot.jpg](https://oscarm.tinytake.com/tt/NTM5MDQ4NF8xNjg1NzQ1Mg))
+![](https://oscarm.tinytake.com/tt/NTM5MDQ4NF8xNjg1NzQ1Mg)
 
 
 ### Links
