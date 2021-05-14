@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://oscarm.tinytake.com/tt/NTM5MDQ4NF8xNjg1NzQ1Mg)
+<img src="https://oscarm.tinytake.com/media/101396c?filename=1620973619722_TinyTake14-05-2021-08-26-57_637565704188699319.png&sub_type=thumbnail_preview&type=attachment&width=406&height=789">
 
 
 ### Links
@@ -38,15 +38,18 @@ Users should be able to:
 
 ## My process
 
-1. Figure out all the main sections of the design and related components by __squaring__ and grouping them ![](https://oscarm.tinytake.com/tt/NTM5MDQzNF8xNjg1NzI5NQ)
-2. Write all the possible HTML according to the previous step. Try to get the most accurate design close to the requisites without a single line of CSS.
-3. Add the images in the design. This one was added as background image.
-4. Start by generally aligning elements without caring about margins and paddings. Write the minimal CSS to do so and start setting some classes in the HTML using BEM Methodology (not highly strict BEM)
-5. Apply desired typography to the design by importing google fonts,  setting font family and font size as desired
-6. Apply all the colors (font and background)
-7. Set margins and paddings, using __em__ units
-8. Leave the tricky parts for the end of the mobile design. In this case: the violet overlay over the main picture
-9. Once mobile design is finished, add a media query to adapt the design to desktop design.
+1. Figure out all the main sections of the design and related components by __squaring__ and grouping them.
+
+<img src="https://oscarm.tinytake.com/media/10138cf?filename=1620972474826_TinyTake14-05-2021-08-04-09_637565692740383927.png&sub_type=thumbnail_preview&type=attachment&width=313&height=799">
+
+1. Write all the possible HTML according to the previous step. Try to get the most accurate design close to the requisites without a single line of CSS.
+2. Add the images in the design. This one was added as background image.
+3. Start by generally aligning elements without caring about margins and paddings. Write the minimal CSS to do so and start setting some classes in the HTML using BEM Methodology (not highly strict BEM)
+4. Apply desired typography to the design by importing google fonts,  setting font family and font size as desired
+5. Apply all the colors (font and background)
+6. Set margins and paddings, using __em__ units
+7. Leave the tricky parts for the end of the mobile design. In this case: the violet overlay over the main picture
+8.  Once mobile design is finished, add a media query to adapt the design to desktop design.
 
 ### Built with
 
