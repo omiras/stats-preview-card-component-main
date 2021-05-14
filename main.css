@@ -16,7 +16,7 @@ body {
 }
 
 .card__image {
-    background-image: url('/images/image-header-mobile.jpg');
+    background-image: url('./images/image-header-mobile.jpg');
     height: 250px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ body {
     }
 
     .card__image--desktop {
-        background-image: url('/images/image-header-desktop.jpg');
+        background-image: url('./images/image-header-desktop.jpg');
         height: 350px;
         background-size: cover;
         background-repeat: no-repeat;
